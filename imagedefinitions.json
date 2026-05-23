@@ -1,0 +1,6 @@
+[
+  {
+    "name": "scn-backend-staging-container",
+    "imageUri": "<AWS_ACCOUNT_ID>.dkr.ecr.eu-west-2.amazonaws.com/scn-backend-staging-repo:test-static-v1"
+  }
+]
